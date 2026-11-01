@@ -236,7 +236,7 @@ super_biz_agent_py/
 
 ## ⚙️ 配置说明
 
-通过 `.env` 文件配置：
+通过 `.env` 文件配置（先复制模板：`copy .env.example .env` 或 `cp .env.example .env`）：
 
 ```bash
 # 阿里云LLM DashScope 配置（必填）
